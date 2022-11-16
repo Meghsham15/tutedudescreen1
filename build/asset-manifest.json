@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tutedudescreen1/static/css/main.72d63df1.css",
-    "main.js": "/tutedudescreen1/static/js/main.e86af679.js",
+    "main.js": "/tutedudescreen1/static/js/main.2bfd9694.js",
     "static/js/787.045cb936.chunk.js": "/tutedudescreen1/static/js/787.045cb936.chunk.js",
     "index.html": "/tutedudescreen1/index.html",
     "main.72d63df1.css.map": "/tutedudescreen1/static/css/main.72d63df1.css.map",
-    "main.e86af679.js.map": "/tutedudescreen1/static/js/main.e86af679.js.map",
+    "main.2bfd9694.js.map": "/tutedudescreen1/static/js/main.2bfd9694.js.map",
     "787.045cb936.chunk.js.map": "/tutedudescreen1/static/js/787.045cb936.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72d63df1.css",
-    "static/js/main.e86af679.js"
+    "static/js/main.2bfd9694.js"
   ]
 }
